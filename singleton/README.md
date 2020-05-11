@@ -1,6 +1,6 @@
 # Singleton
 
-[Singleton Design](singleton.png)
+![Singleton Design](singleton.png)
 
 - Guarantee one instance
 - Easy to implement
